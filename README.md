@@ -1,4 +1,4 @@
 # cartesi_dare
 
 
-Implementation of a machine unlearning application in a cartesi machine.
+Implementation of a machine unlearning application using a Cartesi Machine.
